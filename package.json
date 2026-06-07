@@ -1,5 +1,3 @@
-console.log("BOT INICIOU");
-const { Client, GatewayIntentBits } = require("discord.js");
 {
   "name": "bot",
   "version": "1.0.0",
